@@ -10,6 +10,9 @@
 [![Coverage](https://img.shields.io/badge/Coverage-82%25-brightgreen.svg)](htmlcov/index.html)
 
 ---
+## 🎥 Demo Video
+
+Loom walkthrough: loom.com/share/34558bfd345043d4ab3c4244eeb5c46a
 
 ## 📋 Table of Contents
 
@@ -971,5 +974,6 @@ Potential improvements for production use:
 ⭐ Star this repo if you found it helpful!
 
 </div>
+
 
 
