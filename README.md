@@ -922,9 +922,9 @@ This project is created as part of a technical assessment for interview evaluati
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/vikramaditya42)
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/vikramaditya-mishra/)
+- Email: vikramaditya.mishra2019@gmail.com
 
 ---
 
@@ -971,3 +971,4 @@ Potential improvements for production use:
 ⭐ Star this repo if you found it helpful!
 
 </div>
+
